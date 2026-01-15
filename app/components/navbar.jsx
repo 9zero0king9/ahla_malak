@@ -9,7 +9,7 @@ import book from '../assets/svg/book.svg'
 import contact from '../assets/svg/contact.svg'
 function navbar() {
   return (
-    <div className=' bg-gray-200 w-full md:h-20 h-15'>
+    <div className=' bg-gray-200 w-full md:h-20 h-17'>
         <div className='flex md:justify-between  md:px-28 '>
           
            <div className='flex'>
@@ -41,7 +41,7 @@ function navbar() {
               </Link>
             </div>
 
-            <div className='flex'>
+            <div className='flex '>
               <div className='ml-4 mt-2 zoom ' >
                 <Link href="/contact">
                    <Image src={book} alt='book' className='md:w-10 w-8 ml-3  ' />
@@ -51,7 +51,7 @@ function navbar() {
 
               <div className='ml-4 zoom ' >
                 <Link href='/contact' >
-                    <Image src={contact} alt='contact' className='w-8 h-6 mt-4   ml-3 mb-1 ' />
+                    <Image src={contact} alt='contact' className='w-8 h-6 mt-4   ml-3 mb-1gi  ' />
                     <p className='font-bold md:text-xl text-sm whitespace-nowrap text-gray-500'> تواصلي معنا </p>
                 </Link>
               </div>
