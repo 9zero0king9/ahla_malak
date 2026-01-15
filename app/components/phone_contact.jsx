@@ -19,7 +19,7 @@ function contact() {
             height: '90vh',
             
           }}>
-            <div className='flex h-full md:items-center items-end rounded-t-4xl justify-end mr-10'>
+            <div className='flex h-full md:items-center items-end rounded-t-4xl justify-end md:mr-10 mx-5'>
 
                 <div className='mb-10'>
                     
