@@ -4,17 +4,17 @@ import Layout3 from './layout3.jsx'
 function ders2() {
   return (
     <>
-    <div className='pt-30 px-20 bg-gray-300 pb-10 '>
+    <div className='md:pt-20 pt-5 px-20 bg-gray-300 pb-10 '>
       <div>
 
-          <h1 className='flex justify-center text-6xl font-bold pt-10'> في صالون أحلى ملاك</h1>
-          <p className=' text-rose-900 text-3xl text-center leading-14 mt-5'> دورات تعليمية احترافية خلي موهبتك تطير
+          <h1 className='flex justify-center md:text-4xl text-3xl font-bold pt-5'> في صالون أحلى ملاك</h1>
+          <p className=' text-rose-900 md:text-2xl text-xl text-center md:leading-8 mt-2'> دورات تعليمية احترافية خلي موهبتك تطير
 إذا كنتِ تحبين عالم الجمال ونفسك تصيرين محترفة أو تفتحين صالونك الخاص وصلتِ للمكان الصحيح
  </p>
       </div>
       <div>
-          <h1 className='flex justify-center text-6xl font-bold pt-10'> كل اللي بنقدمه  </h1>
-          <p className=' text-rose-900 text-3xl text-center leading-14 mt-'> صدوراتنا معتمدة وشهادة موقعة ومختومة وتدريب عملي 100% على موديلات حقيقيات
+          <h1 className='flex justify-center md:text-4xl text-3xl font-bold pt-5'> كل اللي بنقدمه  </h1>
+          <p className=' text-rose-900 md:text-3xl text-xl font-bold text-center md:leading-8 mt-'> صدوراتنا معتمدة وشهادة موقعة ومختومة وتدريب عملي 100% على موديلات حقيقيات
 الدورات المتوفرة حالياً
 دورة المكياج الاحترافي
 مدة 12 أسبوع الدوام يومياً

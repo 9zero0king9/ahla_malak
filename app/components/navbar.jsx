@@ -27,7 +27,7 @@ function navbar() {
               <div className='zoom mt-3'>
                 <Link href='/aboutus'>
                   <Image src={aboutus} alt="about" width={50} height={50} className='md:w-6 w-6 md:ml-6 ml-4 mb-1 '/>
-                  <h4 className='font-bold md:text-xl text-sm text-gray-500 whitespace-nowrap'> معلومات عننا </h4> 
+                  <h4 className='font-bold md:text-xl text-sm md:mt-2 text-gray-500 whitespace-nowrap'> معلومات عننا </h4> 
                   
                 </Link>
               </div>
@@ -52,7 +52,7 @@ function navbar() {
               <div className='ml-4 zoom ' >
                 <Link href='/contact' >
                     <Image src={contact} alt='contact' className='w-8 h-6 mt-4   ml-3 mb-1gi  ' />
-                    <p className='font-bold md:text-xl text-sm whitespace-nowrap text-gray-500'> تواصلي معنا </p>
+                    <p className='font-bold md:text-xl md:mt-2 text-sm whitespace-nowrap text-gray-500'> تواصلي معنا </p>
                 </Link>
               </div>
               
