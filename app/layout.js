@@ -19,7 +19,7 @@ export const metadata = {
   openGraph: {
     title: "Ahla Malak Salon",
     description: "صالون تجميل احترافي بخدمات عالية الجودة",
-    url: "https://ahlimalak.com",
+    url: "https://ahlamalak.com",
     siteName: "Ahla Malak Salon",
   },
 };
@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
     "@type": "BeautySalon",
     "name": "Ahla Malak Salon",
     "description": "صالون تجميل احترافي بخدمات عالية الجودة في حلب",
-    "url": "https://ahlimalak.com",
+    "url": "https://ahlamalak.com",
     "telephone": ["+963940599162", "+963945882802"],
     "address": {
       "@type": "PostalAddress",
@@ -63,6 +63,7 @@ export default function RootLayout({ children }) {
         <link rel="preload" as="style" href="/globals.css" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+        <link rel="canonical" href="https://ahlamalak.com/" />
         
         {/* Structured Data */}
         <script

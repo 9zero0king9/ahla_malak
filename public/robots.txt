@@ -3,7 +3,7 @@ Allow: /
 Disallow: /api/
 Disallow: /admin/
 
-Sitemap: https://ahlimalak.com/sitemap.xml
+Sitemap: https://ahlamalak.com/sitemap.xml
 
 # Google specific
 User-agent: Googlebot

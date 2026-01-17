@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://ahlimalak.com',
+  siteUrl: 'https://ahlamalak.com',
   generateRobotsTxt: false,
   sitemapSize: 50000,
   changefreq: 'weekly',
@@ -14,7 +14,7 @@ module.exports = {
       },
     ],
     additionalSitemaps: [
-      'https://ahlimalak.com/sitemap.xml',
+      'https://ahlamalak.com/sitemap.xml',
     ],
   },
 };
