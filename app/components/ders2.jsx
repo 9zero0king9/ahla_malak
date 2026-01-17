@@ -7,13 +7,13 @@ function ders2() {
     <div className='md:pt-20 pt-5 px-20 bg-gray-300 pb-10 '>
       <div>
 
-          <h1 className='flex justify-center md:text-4xl text-3xl font-bold pt-5'> في صالون أحلى ملاك</h1>
+          <h1 className='flex justify-center md:text-4xl text-2xl font-bold pt-5 text-black'> في صالون أحلى ملاك</h1>
           <p className=' text-rose-900 md:text-2xl text-xl text-center md:leading-8 mt-2'> دورات تعليمية احترافية خلي موهبتك تطير
 إذا كنتِ تحبين عالم الجمال ونفسك تصيرين محترفة أو تفتحين صالونك الخاص وصلتِ للمكان الصحيح
  </p>
       </div>
       <div>
-          <h1 className='flex justify-center md:text-4xl text-3xl font-bold pt-5'> كل اللي بنقدمه  </h1>
+          <h1 className='flex justify-center md:text-4xl text-2xl font-bold pt-5 text-black'> كل اللي بنقدمه  </h1>
           <p className=' text-rose-900 md:text-3xl text-xl font-bold text-center md:leading-8 mt-'> صدوراتنا معتمدة وشهادة موقعة ومختومة وتدريب عملي 100% على موديلات حقيقيات
 الدورات المتوفرة حالياً
 دورة المكياج الاحترافي

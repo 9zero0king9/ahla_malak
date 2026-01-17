@@ -7,13 +7,13 @@ function tirnakbakim2() {
     <div className='md:pt-20 pt-5 px-20 bg-gray-300 pb-10 '>
       <div>
 
-          <h1 className='flex justify-center md:text-4xl text-3xl font-bold pt-10'> عناية الاظافر عندنا </h1>
+          <h1 className='flex justify-center md:text-4xl text-2xl font-bold pt-10'> عناية الاظافر عندنا </h1>
           <p className=' text-rose-900 md:text-2xl text-xl text-center md:leading-8 mt-2'> مو بس مناكير، هيي فن ودلع يدوم أسابيع! 
 أظافرك جزء من جمالك وأناقتك عشان هيك بنعاملها كجواهر تستاهل أرقى العناية والإبداع 
  </p>
       </div>
       <div>
-          <h1 className='flex justify-center md:text-4xl text-3xl font-bold pt-5'> كل اللي بنقدمه للاظافر </h1>
+          <h1 className='flex justify-center md:text-4xl text-2xl font-bold pt-5'> كل اللي بنقدمه للاظافر </h1>
           <p className=' text-rose-900 md:text-2xl text-xl text-center md:leading-8 mt-2'> مانيكير وبديكير فاخر كلاسيكي
 تنظيف عميق – تقشير – ترطيب – تدليك – طلاء مثالي يدوم طويلاً.
 طلاء جل – جيليش – بولي جل

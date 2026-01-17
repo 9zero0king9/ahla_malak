@@ -2,7 +2,18 @@ import React from 'react'
 import Services1 from '../components/services1'
 import Layout3 from '../components/layout3.jsx';
 import Footer from '../components/footer.jsx';
-import Phone_services from '../components/phone_services.jsx'; 
+import Phone_services from '../components/phone_services.jsx';
+
+
+
+
+export const metadata = {
+  title: "خدماتنا - صالون أحلى ملك",
+  description: "اكتشف جميع خدماتنا: تجميل الوجه، العناية بالشعر، والمزيد من الخدمات المتخصصة",
+  keywords: "خدمات تجميل، تجميل الوجه، العناية بالشعر، خدمات الصالون",
+};
+
+
 function page() {
   return (
     <div>

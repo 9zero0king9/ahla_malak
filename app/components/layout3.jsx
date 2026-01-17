@@ -17,7 +17,7 @@ function layout2() {
       <h1 className='flex justify-center md:text-5xl text-3xl font-bold '> خدماتنا </h1>
       </div>
 
-      <div className='flex justify-around md:mx-40 '>
+      <div className='flex justify-center md:mx-40 '>
 
         <div className='md:flex'>
 
@@ -48,8 +48,8 @@ function layout2() {
 
         <div className='md:flex md:mr-6 '>
 
-          <div className='zoom2 md:mr-6'>
-            <Link href='/services/sacbakim'>
+          <div className='zoom2 md:mr-6 md:ml-5'>
+            <Link href='/services/sacbakim '>
               <Image src={sac} alt='sac' className='md:w-50 w-30 md:h-70 h-40 rounded-2xl'/>
               <h1 className='font-bold text-black md:text-2xl text-xl text-center my-3'> العناية بل شعر </h1>          
             </Link>

@@ -7,11 +7,11 @@ function mumbakim2() {
     <div className='md:pt-20 pt-5 px-20 bg-gray-300 pb-10 '>
       <div>
 
-          <h1 className='flex justify-center md:text-4xl text-3xl font-bold pt-5'> عناية الجسم عندنا </h1>
+          <h1 className='flex justify-center md:text-4xl text-2xl font-bold pt-5 text-black'> عناية الجسم عندنا </h1>
           <p className=' text-rose-900 md:text-2xl text-xl text-center md:leading-8 mt-2'> تعني واكس فاخر لكل الجسم والمناطق الحساسة بنعومة تامة وأمان مطلق وبشرة حريرية تدوم طويلاً من دون ألم ولا احمرار. </p>
       </div>
       <div>
-          <h1 className='flex justify-center md:text-4xl text-3xl font-bold pt-5'> إزالة الشعر بالشمع عندنا  </h1>
+          <h1 className='flex justify-center md:text-4xl text-2xl font-bold pt-5 text-black '> إزالة الشعر بالشمع عندنا  </h1>
           <p className=' text-rose-900 md:text-2xl text-xl text-center md:leading-8 mt-2'> مو بس إزالة هي دلع ونعومة تدوم أسابيع
 مرحبا ببشرتك الناعمة اللي بتحلمي فيها
 إزالة الشعر بالشمع في صالوننا تجربة مختلفة تماما بدون ألم زيادة وبدون احمرار طويل وبشرة زي الحرير من أول جلسة

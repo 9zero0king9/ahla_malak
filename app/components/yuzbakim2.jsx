@@ -7,12 +7,12 @@ function yuzbakim2() {
     <div className='md:pt-20 pt-5 px-20 bg-gray-300 pb-10 '>
       <div>
 
-          <h1 className='flex justify-center md:text-4xl text-3xl font-bold md:pt-10 p-2'> عناية الوجه عندنا </h1>
+          <h1 className='flex justify-center md:text-4xl text-2xl font-bold md:pt-10 p-2 text-black'> عناية الوجه عندنا </h1>
           <p className=' text-rose-900 md:text-2xl text-xl text-center md:leading-8 mt-2'> مو بس تنظيف، هي تجربة تجديد كاملة مرحبا بجمالك الطبيعي 
 في صالوننا، عناية الوجه مو روتين عادي هي لحظات دلع وعلاج حقيقي يخلّيكِ تطلعي ببشرة متل الأطفال وإشراقة تخطف القلوب </p>
       </div>
       <div>
-          <h1 className='flex justify-center md:text-4xl text-3xl font-bold md:pt-10 p-2'> كل اللي بنقدمه للوجه </h1>
+          <h1 className='flex justify-center md:text-4xl text-2xl font-bold md:pt-10 p-2 text-black'> كل اللي بنقدمه للوجه </h1>
           <p className=' text-rose-900 md:text-2xl font-bold text-center md:leading-8 mt-5'> تنظيف البشرة العميق
 نطلّع الرؤوس السوداء والدهون المتراكمة بلطف تام، ننظف المسام بعمق، ونرطب البشرة بمواد طبيعية 100% تطلعي ببشرة نضرة وصافية من أول جلسة تقشير طبي للتصبغات وحبوب الشباب وحروق الشمس
 بنستخدم أحماض فواكه طبيعية عشان نوحد لون البشرة، نطفي البقع الداكنة، ونخفف آثار الحبوب والندبات في 3-4 جلسات فقط.

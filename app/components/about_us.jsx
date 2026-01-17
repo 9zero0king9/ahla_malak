@@ -8,14 +8,14 @@ function about_us() {
     <div className='pt-30 px-20 bg-gray-300 pb-10 '>
       <div>
 
-          <h1 className='flex justify-center md:text-4xl text-3xl font-bold pt-10 text-black'>في صالون احلى ملاك</h1>
+          <h1 className='flex justify-center md:text-4xl text-2xl font-bold pt-10 text-black'>في صالون احلى ملاك</h1>
           <p className=' text-rose-900 md:text-2xl text-xl text-center md:leading-8 mt-5'> نحنا أكتر من مجرد صالون تجميل… نحنا البيت التاني لكل بنت وست بتحب تهتم بنفسها وتطلع بأجمل إطلالة.
 من أول يوم فتحنا فيه، كان هدفنا واحد: وهوه انو نكون المكان اللي بتحسي فيه إنك ملكة، وبتروحي من عنا وأنتِ واثقة ١٠٠٪ من حالك.
 فريقنا كله بنات متلك عندهم شغف مجنون بالجمال وسنين طويلة من الخبرة بيحبوا يسمعوا منكِ شو بدك بالضبط وبيعطوكِ النصيحة الصادقة اللي بتناسب بشرتك وشعرك وستايلك.
 ما بنحط قالب واحد للكل… كل زبونة عندنا قصتها الخاصة وإطلالتها اللي بتميزها </p>
       </div>
       <div>
-          <h1 className='flex justify-center md:text-4xl text-3xl font-bold md:pt-10 pt-5 text-black'>شو منقدم؟</h1>
+          <h1 className='flex justify-center md:text-4xl text-2xl font-bold md:pt-10 pt-5 text-black'>شو منقدم؟</h1>
           <p className=' text-rose-900 md:text-2xl text-xl text-center md:leading-8 md:mt-5'> <br/>  صبغات وميش وبلياج بألوان الموضة وبأسلوب يحافظ على شعرك    
 <br/> حواجب مثالية (خيط أو واكس أو حناء) مع تصميم يناسب شكل 
 <br/> تنظيف بشرة عميق وتقشير يخلّي وجهك يضوي يزيل حروق الشمس 
