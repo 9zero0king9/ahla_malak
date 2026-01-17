@@ -1,4 +1,14 @@
 User-agent: *
 Allow: /
 Disallow: /api/
+Disallow: /admin/
+
 Sitemap: https://ahlimalak.com/sitemap.xml
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+
+# Bing specific  
+User-agent: Bingbot
+Allow: /
