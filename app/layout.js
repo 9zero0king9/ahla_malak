@@ -16,6 +16,9 @@ export const metadata = {
   title: "Ahla Malak Salon | خدمات تجميل احترافية",
   description: "صالون أحلى ملك - خدمات تجميل شاملة: تجميل الوجه، العناية بالشعر، وتقنيات حديثة. احجز موعدك الآن!",
   keywords: "صالون تجميل، خدمات العناية بالبشرة، قص الشعر، صالون النساء",
+  icons: {
+    icon: '/9.ico',
+  },
   openGraph: {
     title: "Ahla Malak Salon",
     description: "صالون تجميل احترافي بخدمات عالية الجودة",
